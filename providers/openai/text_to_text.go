@@ -9,7 +9,7 @@ import (
 	"github.com/sashabaranov/go-openai"
 	"github.com/sashabaranov/go-openai/jsonschema"
 
-	"github.com/neurocult/agency"
+	"github.com/nbox363/agency"
 )
 
 // TextToTextParams represents parameters that are specific for this operation.

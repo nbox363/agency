@@ -8,8 +8,8 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	"github.com/neurocult/agency"
-	"github.com/neurocult/agency/providers/openai"
+	"github.com/nbox363/agency"
+	"github.com/nbox363/agency/providers/openai"
 )
 
 // usage example: go to the repo root and execute

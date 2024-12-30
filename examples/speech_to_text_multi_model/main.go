@@ -9,8 +9,8 @@ import (
 	_ "github.com/joho/godotenv/autoload"
 	goopenai "github.com/sashabaranov/go-openai"
 
-	"github.com/neurocult/agency"
-	"github.com/neurocult/agency/providers/openai"
+	"github.com/nbox363/agency"
+	"github.com/nbox363/agency/providers/openai"
 )
 
 type Saver []agency.Message

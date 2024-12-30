@@ -1,4 +1,4 @@
-module github.com/neurocult/agency
+module github.com/nbox363/agency
 
 go 1.21.0
 

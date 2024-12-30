@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/neurocult/agency"
+	"github.com/nbox363/agency"
 	"github.com/sashabaranov/go-openai"
 )
 

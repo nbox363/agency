@@ -11,7 +11,7 @@ Library designed for developers eager to explore the potential of Large Language
 Install package:
 
 ```bash
-go get github.com/neurocult/agency
+go get github.com/nbox363/agency
 ```
 
 Chat example:
@@ -27,8 +27,8 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	"github.com/neurocult/agency"
-	"github.com/neurocult/agency/providers/openai"
+	"github.com/nbox363/agency"
+	"github.com/nbox363/agency/providers/openai"
 )
 
 func main() {

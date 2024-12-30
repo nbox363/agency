@@ -7,8 +7,8 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	"github.com/neurocult/agency"
-	openAIProvider "github.com/neurocult/agency/providers/openai"
+	"github.com/nbox363/agency"
+	openAIProvider "github.com/nbox363/agency/providers/openai"
 	"github.com/sashabaranov/go-openai"
 )
 

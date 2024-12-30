@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/neurocult/agency"
+	"github.com/nbox363/agency"
 )
 
 func main() {
